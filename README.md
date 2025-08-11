@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Kaustubh 👋
 
-<!--
-**KaustubhOG/KaustubhOG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Learing Full-Stack Development| Cybersecurity Enthusiast**  
+🔍 Currently exploring **Next.js, Prisma, and Web Security**  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Tools
+- **Frontend:** Next.js, React, Tailwind CSS
+- **Backend:** Node.js, Express, Prisma
+- **Database:** PostgreSQL, Neon.tech
+- **Other:** Git, VAPT
+
+
+
+## 📫 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/kaustubh-shivarkar-5b824424a/)  
+[![Email](https://img.shields.io/badge/Email-grey?logo=gmail)](mailto:kaustubh1274@gmail.com)
+
+---
+⭐️ *"Building things that matter, learning every day."*
