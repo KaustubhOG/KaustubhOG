@@ -12,7 +12,7 @@
 - **Backend:** Node.js, Express, Prisma  
 - **Database:** PostgreSQL, Neon.tech  
 - **Other:** Git, VAPT, Bug Bounty Recon  
-- **Learning:** Web3, LLM Security
+- **Next Stop:** Web3, LLM Security
 
 ---
 
