@@ -1,7 +1,7 @@
 # Hi there, I'm Kaustubh 👋
 
 🚀 **Learning Full-Stack Development | Cybersecurity & Bug Bounty Enthusiast**  
-🔍 Currently exploring **Next.js, Prisma, Web Security, and LLM Security**  
+🔍 Currently exploring **Next.js, Prisma, Web Security**  
 🌐 Really want to break into the **Web3** field — exploring smart contract security & blockchain development.  
 🕵️ Passionate about finding and responsibly disclosing security vulnerabilities.
 
