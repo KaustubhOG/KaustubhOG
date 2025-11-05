@@ -7,12 +7,6 @@
 
 ---
 
-## ​ Technologies & Tools
-- **Frontend:** Next.js, React, Tailwind CSS  
-- **Backend:** Node.js, Express, Prisma  
-- **Database:** PostgreSQL, Neon.tech  
-- **Other:** Git, VAPT, Bug Bounty Recon  
-- **Next Stop:** Web3, LLM Security
 
 ---
 
