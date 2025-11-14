@@ -1,11 +1,7 @@
-# Hi there, I'm Kaustubh 👋
-
-🚀 **Learning Full-Stack Development | Cybersecurity & Bug Bounty Enthusiast**  
-🔍 Currently exploring **Next.js, Prisma, Web Security**  
-🌐 Really want to break into the **Web3** field — exploring smart contract security & blockchain development.  
-🕵️ Passionate about finding and responsibly disclosing security vulnerabilities.
-
----
+🚀 **Full-Stack Engineer | Security Researcher**  
+🔍 Experienced with **Next.js, Rust, and Web Security**  
+🌐 Seeking full-time/internship roles in **Web3 development** and **smart contract security**  
+🕵️ Strong interest in **real-world security analysis** and **open-source contribution**
 
 
 ---
@@ -38,5 +34,24 @@ Active participant on **HackerOne** and **Bugcrowd**, focusing on application, A
 [![Email](https://img.shields.io/badge/Email-grey?logo=gmail)](mailto:kaustubh1274@gmail.com)
 
 ---
+# 📦 Public Repositories
 
+## GitHub Repositories
+- https://github.com/KaustubhOG/CTF_Exclusive
+- https://github.com/KaustubhOG/Rust_Projects
+- https://github.com/KaustubhOG/KaustubhOG
+- https://github.com/KaustubhOG/anchor
+- https://github.com/KaustubhOG/bullsEye_complete
+- https://github.com/KaustubhOG/bullsEye
+- https://github.com/KaustubhOG/Solana_Projects-
+- https://github.com/KaustubhOG/Bugtracker
+
+  # 🌍 Open-Source Contributions (PRs)
+
+- https://github.com/rust-lang/rustlings/pull/2309
+- https://github.com/rust-lang/rustlings/pull/2308
+- https://github.com/patternfly-yew/patternfly-yew/pull/160
+- https://github.com/solana-foundation/anchor/pull/4043
+
+  
 ⭐ *"Building things that matter, breaking things responsibly, and learning every day."*
