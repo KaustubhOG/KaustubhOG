@@ -48,8 +48,7 @@ Active participant on **HackerOne** and **Bugcrowd**, focusing on application, A
 
   # 🌍 Open-Source Contributions (PRs)
 
-- https://github.com/rust-lang/rustlings/pull/2309
-- https://github.com/rust-lang/rustlings/pull/2308
+
 - https://github.com/patternfly-yew/patternfly-yew/pull/160
 - https://github.com/solana-foundation/anchor/pull/4043
 
